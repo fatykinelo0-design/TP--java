@@ -1,0 +1,6 @@
+target/
+*.class
+.idea/
+.vscode/
+Projet-java21/env.ps1
+Projet-java25/env.ps1
